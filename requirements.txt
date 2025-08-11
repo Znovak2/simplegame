@@ -2,3 +2,4 @@ Streamlit
 Pandas
 Matplotlib
 Pillow
+streamlit-image-coordinates
